@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-printf("\n welcome to vIM..);
+printf("\n welcome to vIM.............);
 printf("\n 1");
 printf("\n 2");
 
