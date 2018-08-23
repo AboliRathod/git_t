@@ -159,7 +159,7 @@ int main()
 	struct node* head = NULL;int position,/*item,*/new_data;
 	int choice;
 	while(1)
-	{	printf("\n......This is singly linked list.......\n");
+	{	printf("\n======......This is singly linked list.....===\n");
 		printf("\n1)Insert_At_Front\n2)Insert_After\n3)Insert_At_End\n.........\n4)printList\n.........\n5)Delete_front\n6)Delete_At\n7)Delete_last\n8)Exit\n");
 		printf("\n enter the choice..");
 		scanf("%d",&choice);
