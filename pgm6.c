@@ -81,7 +81,7 @@ void insertEnd(struct node** head_ref, int new_data)
 void deleteFront(struct node ** head_ref)
 {
    if(*head_ref == NULL)
-      printf("List is Empty!!! Deletion not possible!!!");
+      printf("List is Empty!!! Deletion not possible!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
    else
    {
       struct node *temp = *head_ref;
